@@ -1,0 +1,47 @@
+_repo: 0x152uvres-completes-de-Victor-Hugo-b-Poesie-VII_72885
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Flameng, François
+    alias: Flameng, Francois
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '55983'
+    url: http://www.gutenberg.org/2009/agents/55983
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Flameng
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Flameng
+creator:
+  author:
+    agent_name: Hugo, Victor
+    aliases:
+    - Hugo, Victor Marie, comte
+    - Hugo, Víctor
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_Hugo
+    - https://fr.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2024-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72885'
+language: fr
+pgterms:marc904: https://archive.org/details/uvrescompltesd01hugo/page/n11/mode/2up
+pgterms:marc905: 20220426055038hugo
+pgterms:marc906: '1880'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bHetzel-Quantin, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Œuvres complètes de Victor Hugo : $b Poésie VII'
+url: http://www.gutenberg.org/ebooks/72885
