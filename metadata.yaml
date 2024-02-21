@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Flameng
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Flameng
+covers:
+- cover_type: archival
+  image_path: 72885-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Victor_Hugo
     - https://fr.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72885#0x152uvres-completes-de-Victor-Hugo-b-Poesie-VII
 gutenberg_issued: '2024-02-06'
 gutenberg_type: Text
 identifiers:
